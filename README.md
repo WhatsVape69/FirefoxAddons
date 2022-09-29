@@ -1,3 +1,4 @@
+[**HOME**](https://whatsvape69.github.io/FirefoxAddons/) | [**THEMES**](https://whatsvape69.github.io/FirefoxAddons/themes) | [**EXTENSIONS**](https://whatsvape69.github.io/FirefoxAddons/extensions)
 # FirefoxAddons
 All of my addons are under the [**Creative Commons Attribution 3.0**](https://creativecommons.org/licenses/by/3.0/) unless stated otherwise.
 
